@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(180, 180, 180);
+}
+
+h1{
+    font-size: 250px;
+    align-items: center;
+}
+
+p{
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.textoencima{
+    position: absolute;
+    top: 10px;
+    left: 31%;
+    
+}
+
+.title{
+    text-align: center;
+}
+
+.nav-link{
+    font-family: monospace;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 0px;
+    margin: 70px;
+}
